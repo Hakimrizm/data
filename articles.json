@@ -6,7 +6,7 @@
       "slug": "what-is-javascript?",
       "category": "javascript",
       "img": "https://hakimrizm.github.io/data/img/what-is-js.jpg",
-      "img-copyright": "Photo by <a href='https://unsplash.com/@blakeconnally?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Blake Connally</a> on <a href='https://unsplash.com/s/photos/javascript?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
+      "imgCopyright": "Photo by <a href='https://unsplash.com/@blakeconnally?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Blake Connally</a> on <a href='https://unsplash.com/s/photos/javascript?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
       "subArticle": "Javascript is a high level programming language.",
       "body": "<p>Javascript is a high level programming language. Kode JavaScript dapat disisipkan dalam halaman web menggunakan tag SCRIPT.</p><p>Javascript is widely used for website development. However, this programming language is also useful for creating mobile applications, desktops, and even developing a game.</p><p>So let's learn javascript, for the future.</p>"
     },
@@ -16,7 +16,7 @@
       "slug": "apa-itu-php",
       "category": "php",
       "img": "https://hakimrizm.github.io/data/img/apa-itu-php.jpg",
-      "img-copyright": "Photo by <a href='https://unsplash.com/@afgprogrammer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Mohammad Rahmani</a> on <a href='https://unsplash.com/s/photos/php?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
+      "imgCopyright": "Photo by <a href='https://unsplash.com/@afgprogrammer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Mohammad Rahmani</a> on <a href='https://unsplash.com/s/photos/php?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
       "subArticle": "Php merupakan singkatan dari Hypertext Prepocessor.",
       "body": "<p>Apa itu php? Php adalah sebuah bahasa pemrograman yang berjalan di sisi server. Php dibuat oleh Rasmus Lerdorf yang dibuat pada tahun 1994. Php merupakan singkatan dari Hypertext Prepocessor.</p><p>Apa kegunaan php? Kegunaan php adalah untuk mengubah halaman HTML yang statis menjadi dinamis. Walaupun sebenernya bukan php saja yang bisa membuat halman HTML menjadi dinamis, masih banyak lagi yang lain.</p><p>Jadi seperti itulah penjelasan singkat tentang php.</p>"
     },
@@ -26,7 +26,7 @@
       "slug": "what-is-html-css",
       "category": "html-css",
       "img": "https://hakimrizm.github.io/data/img/what-is-html-css.jpg",
-      "img-copyright": "Photo by <a href='https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex'>Florian Olivo</a> on <a href='https://unsplash.com/s/photos/html?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
+      "imgCopyright": "Photo by <a href='https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex'>Florian Olivo</a> on <a href='https://unsplash.com/s/photos/html?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
       "subArticle": "html was first released in 1993. CSS itself is an internet technology recommended by the World Wide Web Consortium or W3C in 1996.",
       "body": "<p>What is a HTML & CSS? Html is a markup language for building web pages. css is a rule for arranging several components in a web so that it will be more structured and uniform. CSS is not a programming language.</p><p>html was first released in 1993. CSS itself is an internet technology recommended by the World Wide Web Consortium or W3C in 1996.</p><p>Source <a href='https://id.wikipedia.org/'>Wikipedia</a></p>"
     },
@@ -36,7 +36,7 @@
       "slug": "bagaimana-membuat-struktur-html",
       "category": "html-css",
       "img": "https://hakimrizm.github.io/data/img/struktur.jpg",
-      "img-copyright": "Photo by <a href='https://unsplash.com/@afgprogrammer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Mohammad Rahmani</a> on <a href='https://unsplash.com/s/photos/html?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
+      "imgCopyright": "Photo by <a href='https://unsplash.com/@afgprogrammer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Mohammad Rahmani</a> on <a href='https://unsplash.com/s/photos/html?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>",
       "subArticle": "Untuk membuat sebuah website, kita harus membuat struktur HTML terlebih dahulu. Untuk membuat struktur HTML, simak penjelasan di bawah ini.</p><p>Pertama, kita harus membuat file nya terlebih dahulu.",
       "body": "<p>Untuk membuat sebuah website, kita harus membuat struktur HTML terlebih dahulu. Untuk membuat struktur HTML, simak penjelasan di bawah ini.</p><p>Pertama, kita harus membuat file nya terlebih dahulu. Sesudah membuat file, Lalu kita akan membuat strukturnya. Pertama tentukan buatlah sebuah tag yang html, lalu kedua, buatlah tag head dan body di dalam tag html tersebut. Sesudah itu, lalu kita bisa membuat content di dalam tag body tersebut.</p><p>Seperti itulah cara membuatnya, mudah bukan?? Terimakasih sudah menyia2kan waktu anda untuk membaca artikel yang tidak berfaedah ini.</p>"
     }
