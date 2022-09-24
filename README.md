@@ -1,3 +1,3 @@
 # data
 
-Source gambar ada di file articles.json
+Source gambar di folder 'img', ada di file articles.json
